@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 <p align="center">
-<img src="https://i.imgur.com/yourbanner.png" />
+<img src="https://Create ChatGPT Image Mar 15, 2026, 04_33_08 PM.png"/>
 </p>
 
 <h1 align="center">Hi 👋, I'm Rohit Raj</h1>
