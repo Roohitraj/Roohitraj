@@ -1,15 +1,7 @@
 ## Hi there 👋
 
-
 <h1 align="center">Hi 👋, I'm RohitRaj Dev</h1>
-
-<p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?lines=Laravel+Developer;PHP+Developer;Open+Source+Contributor&center=true&width=500&height=50">
-</p>
-
-
-<h1 align="center">Hi 👋, I'm RohitRaj Dev</h1>
-<h3 align="center">Laravel | PHP | JavaScript Developer</h3>
+<h3 align="center">Laravel | PHP | Laravel |  JavaScript Developer | AI/ML Engineer</h3>
 
 <p align="center">
 <img src="https://readme-typing-svg.herokuapp.com?lines=Laravel+Developer;PHP+Developer;Open+Source+Contributor&center=true&width=500&height=50">
